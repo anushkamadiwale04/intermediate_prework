@@ -2,6 +2,7 @@
 
 ### App Description
 
+This is an app for the prework of the Intermediate level of iOS Development course for Codepath. It is an IntroduceMe App that takes the name, school and year of school they are in and if they have any pets. It also asks user if they want any more pets. After clicking the introduce button, it introduces the user with the provided information. You can close the introduction and start over. 
 
 ### App Walk-though
 
